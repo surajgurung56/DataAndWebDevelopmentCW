@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\C#\\New folder\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\topperformer.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\topperformer.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\topperformer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\topperformer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\topperformer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\topperformer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\projectmilestone.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\projectmilestone.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\projectmilestone.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\projectmilestone.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\projectmilestone.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\projectmilestone.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\userproject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\userproject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\userproject.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\userproject.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\userproject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\userproject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\userdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\userdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\milestonedetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\milestonedetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\milestonedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\milestonedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\subtaskdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\subtaskdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\subtaskdetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\subtaskdetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\subtaskdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\subtaskdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\taskdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\taskdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\roledetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\roledetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\roledetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\roledetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\roledetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\roledetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\about.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\about.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\taskdetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\taskdetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\taskdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\taskdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\projectdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\projectdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\projectdetail.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\projectdetail.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|s:\\c#\\new folder\\webapplication1\\webapplication1\\projectdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91B7942-6340-4A68-AE8A-A9E910FCA1B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\projectdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TopPerformer.aspx.designer.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\TopPerformer.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\TopPerformer.aspx.designer.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\TopPerformer.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\TopPerformer.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:07:46.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TopPerformer.aspx.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\TopPerformer.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\TopPerformer.aspx.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\TopPerformer.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\TopPerformer.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:07:43.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserProject.aspx",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\UserProject.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\UserProject.aspx",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\UserProject.aspx",
+              "RelativeToolTip": "WebApplication1\\UserProject.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-04T19:03:19.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProject.aspx.designer.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\UserProject.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\UserProject.aspx.designer.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\UserProject.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\UserProject.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:00:23.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserProject.aspx.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\UserProject.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\UserProject.aspx.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\UserProject.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\UserProject.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:51:22.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TopPerformer.aspx",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\TopPerformer.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\TopPerformer.aspx",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\TopPerformer.aspx",
+              "RelativeToolTip": "WebApplication1\\TopPerformer.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-04T18:51:41.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MilestoneDetails.aspx.designer.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\MilestoneDetails.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\MilestoneDetails.aspx.designer.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\MilestoneDetails.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\MilestoneDetails.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:48:55.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectMilestone.aspx",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\ProjectMilestone.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\ProjectMilestone.aspx",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\ProjectMilestone.aspx",
+              "RelativeToolTip": "WebApplication1\\ProjectMilestone.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-04T18:46:46.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Site.Master",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\Site.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\Site.Master",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\Site.Master",
+              "RelativeToolTip": "WebApplication1\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-04T18:34:18.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectMilestone.aspx.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\ProjectMilestone.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ProjectMilestone.aspx.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\ProjectMilestone.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\ProjectMilestone.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:46:57.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectMilestone.aspx.designer.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\ProjectMilestone.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ProjectMilestone.aspx.designer.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\ProjectMilestone.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\ProjectMilestone.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:47:01.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MilestoneDetails.aspx",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\MilestoneDetails.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\MilestoneDetails.aspx",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\MilestoneDetails.aspx",
+              "RelativeToolTip": "WebApplication1\\MilestoneDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-04T18:48:44.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDetails.aspx",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\UserDetails.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\UserDetails.aspx",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\UserDetails.aspx",
+              "RelativeToolTip": "WebApplication1\\UserDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-04T18:36:51.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubtaskDetails.aspx",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\SubtaskDetails.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\SubtaskDetails.aspx",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\SubtaskDetails.aspx",
+              "RelativeToolTip": "WebApplication1\\SubtaskDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-04T18:41:24.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SubtaskDetails.aspx.designer.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\SubtaskDetails.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\SubtaskDetails.aspx.designer.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\SubtaskDetails.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\SubtaskDetails.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:44:09.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubtaskDetails.aspx.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\SubtaskDetails.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\SubtaskDetails.aspx.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\SubtaskDetails.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\SubtaskDetails.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:44:05.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoleDetails.aspx.designer.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\RoleDetails.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\RoleDetails.aspx.designer.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\RoleDetails.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\RoleDetails.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:36:16.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleDetails.aspx.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\RoleDetails.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\RoleDetails.aspx.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\RoleDetails.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\RoleDetails.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:36:12.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "About.aspx.designer.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\About.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\About.aspx.designer.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\About.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\About.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:35:48.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\About.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\About.aspx.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\About.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\About.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:35:44.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleDetails.aspx",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\RoleDetails.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\RoleDetails.aspx",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\RoleDetails.aspx",
+              "RelativeToolTip": "WebApplication1\\RoleDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-04T18:35:16.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TaskDetails.aspx.designer.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\TaskDetails.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\TaskDetails.aspx.designer.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\TaskDetails.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\TaskDetails.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:33:29.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskDetails.aspx",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\TaskDetails.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\TaskDetails.aspx",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\TaskDetails.aspx",
+              "RelativeToolTip": "WebApplication1\\TaskDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-04T18:32:37.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaskDetails.aspx.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\TaskDetails.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\TaskDetails.aspx.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\TaskDetails.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\TaskDetails.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:33:24.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProjectDetail.aspx.designer.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\ProjectDetail.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ProjectDetail.aspx.designer.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\ProjectDetail.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\ProjectDetail.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:27:03.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProjectDetail.aspx.cs",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\ProjectDetail.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ProjectDetail.aspx.cs",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\ProjectDetail.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\ProjectDetail.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:26:57.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProjectDetail.aspx",
+              "DocumentMoniker": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\ProjectDetail.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\ProjectDetail.aspx",
+              "ToolTip": "S:\\C#\\New folder\\WebApplication1\\WebApplication1\\ProjectDetail.aspx",
+              "RelativeToolTip": "WebApplication1\\ProjectDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-04T18:26:35.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
